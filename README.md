@@ -1,2 +1,8 @@
 # Encyclopedia_Java_RMI
-in this project build an Encyclopedia application in Java using Remote Method Invocation (RMI)
+<h1>Description</h1>
+this is Java application using Remote Method Invocation (RMI) in 2 versions
+<ol>
+  <li>Un Threaded</li>
+  <li>Multi-Threaded</li>
+</ol>
+<h3>Steps</h3>
