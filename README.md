@@ -1,4 +1,6 @@
-# RMI Encyclopedia Project
+
+
++# RMI Encyclopedia Project
 
 ## Overview
 
@@ -79,5 +81,5 @@ Special thanks to the Java RMI framework for making this project possible.
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at [your-email@example.com](mailto:tophima5@gmail.com).
+If you have any questions or suggestions, please feel free to contact us at [tophima5@gmail.com](mailto:tophima5@gmail.com).
 
